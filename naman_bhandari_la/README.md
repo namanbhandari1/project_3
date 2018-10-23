@@ -22,8 +22,8 @@ I selected the r/rant and r/depression subreddits. Certain studies show that the
 
 ### Materials
 
-- Jupyter notebooks: 1-project-3_scrape.ipynb and 2-project-3_analysis.ipynb
-- Presentation: Naman Bhandari - LA 5 - Project 3.pdf
+- Jupyter notebooks: [01-project-3_scrape](code/01-project-3_scrape.ipynb) and [02-project-3_analysis](code/02-project-3_analysis.ipynb)
+- Presentation: [Naman Bhandari - LA 5 - Project 3](presentation/Naman Bhandari - LA 5 - Project 3.pdf)
 
 ### Technologies
 - Pandas
@@ -37,7 +37,7 @@ I selected the r/rant and r/depression subreddits. Certain studies show that the
 
 ### Datasets
 
-- r/depression JSON: ./data/depression.json
-- r/rant JSON: ./data/rant.json
+- r/depression JSON: [./data/depression.json](./data/depression.json)
+- r/rant JSON: [./data/rant.json](./data/rant.json)
 
 This data was scraped from Reddit using their API.
