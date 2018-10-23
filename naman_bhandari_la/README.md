@@ -23,7 +23,7 @@ I selected the r/rant and r/depression subreddits. Certain studies show that the
 ### Materials
 
 - Jupyter notebooks: [01-project-3_scrape](code/01-project-3_scrape.ipynb) and [02-project-3_analysis](code/02-project-3_analysis.ipynb)
-- Presentation: [Project\ 3](./presentation/Naman\ Bhandari\ -\ LA\ 5\ -\ Project\ 3.pdf)
+- Presentation: [Project 3 Presentation](./presentation/Project_3_Presentation.pdf)
 
 ### Technologies
 - Pandas
